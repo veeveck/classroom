@@ -1,6 +1,5 @@
 polity
 geo
-historys
 
-maths
-chem
+comp
+sci
